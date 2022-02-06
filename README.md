@@ -1,6 +1,6 @@
 # wordleSolver
 
-Having ideas for coding projects isn't always easy, but this one just popped into my head as a massive Wordle fan. It essentially works by getting a list of english words from a corpus provided by the NLTK library, and then filtering this down to 5 letter words.
+As a massive Wordle fan, I had to make this sooner or later. It essentially works by getting a list of english words from a corpus provided by the NLTK library, and then filtering this down to 5 letter words.
 
 I have borrowed and adapted the Website class from another user as I struggled greatly to interact with the Wordle website due to its use of the shadow DOM. I had found other work arounds, but none were as clean, and there's no need to reinvent the wheel. 
 
