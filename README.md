@@ -9,3 +9,5 @@ From here, the program finds the most frequent letters for each position and che
 This could be further optimized by having the program investigate further the case when there is more than one piece of information about a letter. At this point, it accounts for this rather rudimentarily.
 
 Support has been implemented for choosing a starting word.
+
+This program plays following the rules of hardmode.
